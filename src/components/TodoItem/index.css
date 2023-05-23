@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.button {
+  color: #ff0b37;
+  background-color: transparent;
+  border-color: #ff0b37;
+  height: 25px;
+  margin-top: 15px;
+  margin-left: 15px;
+}
+.list-container {
+  list-style-type: none;
+}
+.card-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.para {
+  color: #000000;
+  font-size: 15px;
+}
